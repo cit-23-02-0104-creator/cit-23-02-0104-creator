@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There,%20I'm%20Dewmi%20👋&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There,%20I'm%20Jayani%20👋&fontSize=40&animation=fadeIn" />
 </div>
 
 <h3 align="center">🚀 AI / ML Developer & Software Engineering Student</h3>

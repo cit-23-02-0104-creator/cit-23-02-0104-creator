@@ -10,7 +10,7 @@
 * 🔭 Currently working on **SmartCare AI & MLOps Projects**
 * 🌱 Learning **Deep Learning, MLOps, & Flutter**
 * 💬 Ask me about **Python, NLP, Computer Vision, and Machine Learning**
-* 📫 How to reach me: **your.email@example.com**
+* 📫 How to reach me: **kiruusamarakoon@gmail.com**
 
 ---
 

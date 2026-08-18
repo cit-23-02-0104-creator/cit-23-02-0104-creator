@@ -17,27 +17,27 @@
 🎓 I'm a **Software Engineering undergraduate** passionate about building
 intelligent and user-focused software solutions.
 
-🤖 Currently working on **AI/ML, MLOps, NLP, Computer Vision, and Web Applications**.
+Currently working on **AI/ML, MLOps, NLP, Computer Vision, and Web Applications**.
 
-🌱 Currently learning **Deep Learning, MLOps, RAG, Explainable AI, and Flutter**.
+Currently learning **Deep Learning, MLOps, RAG, Explainable AI, and Flutter**.
 
-💡 I enjoy turning real-world problems into **practical AI-powered applications**.
+I enjoy turning real-world problems into **practical AI-powered applications**.
 
-💬 Ask me about **Python, Machine Learning, NLP, Computer Vision, MLOps, and Full-Stack Development**.
+Ask me about **Python, Machine Learning, NLP, Computer Vision, MLOps, and Full-Stack Development**.
 
-📫 Reach me at **[kiruusamarakoon@gmail.com](mailto:kiruusamarakoon@gmail.com)**
+Reach me at **[kiruusamarakoon@gmail.com](mailto:kiruusamarakoon@gmail.com)**
 
 ---
 
 ## 🧠 What I'm Interested In
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning & NLP
-- 👁️ Computer Vision
-- ⚙️ MLOps & Model Deployment
-- 🌐 Full-Stack Web Development
-- 📱 Mobile Application Development
-- 🎨 UI/UX & User-Centered Design
+- Artificial Intelligence & Machine Learning
+- Deep Learning & NLP
+- Computer Vision
+- MLOps & Model Deployment
+- Full-Stack Web Development
+- Mobile Application Development
+- UI/UX & User-Centered Design
 
 ---
 

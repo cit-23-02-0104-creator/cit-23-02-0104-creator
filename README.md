@@ -142,7 +142,7 @@ intelligent and user-focused software solutions.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
+<a href="https://cit-23-02-0104-creator.github.io/My-portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -151,13 +151,3 @@ intelligent and user-focused software solutions.
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-### 💫 "Building intelligent solutions, one project at a time."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
-
-</div>

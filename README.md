@@ -41,6 +41,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://cit-23-02-0104-creator.github.io/My-portfolio/" />
   </a>
 </p>

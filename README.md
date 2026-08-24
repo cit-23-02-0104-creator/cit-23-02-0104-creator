@@ -2,22 +2,22 @@
 
 ### 💻 Software Engineering Undergraduate
 
+👨‍💻 About Me
+
 I'm a **Software Engineering undergraduate** passionate about building practical, user-friendly, and scalable software applications.
 
 I have experience in **web development, mobile application development, backend development, databases, and software project development**. I'm also interested in exploring **Artificial Intelligence, Machine Learning, Deep Learning, and MLOps**.
 
 ---
 
-## 👨‍💻 About Me
-
-* 🎓 BSc (Hons) in Software Engineering Undergraduate
-* 💻 Interested in **Software Engineering & Full-Stack Development**
-* 🌐 Experienced in **Web & Backend Development**
-* 📱 Experience in **Mobile Application Development**
-* 🗄️ Familiar with **Databases & API Development**
-* 🤖 Interested in **AI, Machine Learning & Deep Learning**
-* ⚙️ Exploring **MLOps and AI-powered applications**
-* 🤝 Enjoy working on team-based software projects
+* BSc (Hons) in Software Engineering Undergraduate
+* Interested in **Software Engineering & Full-Stack Development**
+* Experienced in **Web & Backend Development**
+* Experience in **Mobile Application Development**
+* Familiar with **Databases & API Development**
+* Interested in **AI, Machine Learning & Deep Learning**
+  Exploring **MLOps and AI-powered applications**
+* Enjoy working on team-based software projects
 
 ---
 
@@ -85,7 +85,7 @@ I have experience in **web development, mobile application development, backend 
 
 ## 🚀 Projects
 
-### 🛡️ DeepShield
+###  DeepShield
 
 **Explainable Multimodal Framework for Trust Assessment & Evidence-Based Fake News Detection**
 
@@ -95,7 +95,7 @@ Developing a software system that combines multimodal AI, REST APIs, and a respo
 
 ---
 
-### 🏥 Hospital Appointment No-Show Prediction
+###  Hospital Appointment No-Show Prediction
 
 A machine learning-based web application developed to predict appointment no-shows using healthcare data.
 
@@ -103,7 +103,7 @@ A machine learning-based web application developed to predict appointment no-sho
 
 ---
 
-### 🛒 LankaSmartMart
+###  LankaSmartMart
 
 Android mobile application developed with UI/UX design, application development, database integration, and collaborative Git/GitHub development.
 
@@ -111,7 +111,7 @@ Android mobile application developed with UI/UX design, application development,
 
 ---
 
-### 📱 Medical Store Management System
+###  Medical Store Management System
 
 Web-based management system developed with responsive frontend interfaces and backend API integration.
 
@@ -119,7 +119,7 @@ Web-based management system developed with responsive frontend interfaces and ba
 
 ---
 
-### 📩 SMS Spam Detection System
+###  SMS Spam Detection System
 
 Web-based application for classifying SMS messages as **Spam or Ham** using Machine Learning and Deep Learning approaches.
 
@@ -127,7 +127,7 @@ Web-based application for classifying SMS messages as **Spam or Ham** using Mach
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ```text
 Languages        Python | Java | JavaScript | SQL
@@ -149,13 +149,12 @@ Design           Figma
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
+**Email:** [kiruusamarakoon@gmail.com](mailto:kiruusamarakoon@gmail.com)
 
-📧 **Email:** [kiruusamarakoon@gmail.com](mailto:kiruusamarakoon@gmail.com)
+**LinkedIn:** Add your LinkedIn profile
 
-💼 **LinkedIn:** Add your LinkedIn profile
-
-🌐 **Portfolio:** Add your portfolio
+**Portfolio:**
 
 ---
 

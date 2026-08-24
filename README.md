@@ -1,240 +1,395 @@
 <div align="center">
 
-# 👋 Hi, I'm **Jayani Samarakoon**
+# JAYANI SAMARAKOON
 
-### 💻 Software Engineering Undergraduate | Full-Stack Developer | Software Developer
-
-**Building practical software solutions with clean interfaces, reliable backend systems and modern technologies.**
+### Software Engineering Undergraduate · Full-Stack Developer · AI/ML Enthusiast
 
 <p>
-  <img src="https://img.shields.io/badge/Software%20Engineering-Developer-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Full--Stack-Development-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mobile-Development-green?style=for-the-badge">
+  <a href="https://cit-23-02-0104-creator.github.io/My-portfolio/">Portfolio</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/jayani-samarakoon-b7b827427/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:kiruusamarakoon@gmail.com">Email</a>
+</p>
+
+<p>
+  Building practical software solutions with
+  <strong>clean interfaces, reliable backend systems and intelligent technologies.</strong>
 </p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-🎓 **BSc (Hons) in Software Engineering Undergraduate** at Sri Lanka Technology Campus (SLTC).
+I am a **BSc (Hons) Software Engineering undergraduate at Sri Lanka Technology Campus (SLTC)** with hands-on experience in software development, artificial intelligence and machine learning.
 
-💻 Passionate about **Software Engineering, Web Development, Mobile Application Development and Backend Development**.
+My development experience includes building **responsive web applications, REST APIs, Android applications, machine learning systems and MLOps pipelines**.
 
-🚀 Experienced in developing **responsive web applications, REST APIs, mobile applications, database-integrated systems and software prototypes**.
+I enjoy taking a problem from an initial idea through **design, development, testing and deployment**.
 
-🎨 Interested in creating **clean, responsive and user-friendly interfaces** using modern development practices.
+Currently, I am particularly interested in:
 
-🤖 **Areas of Interest:** Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision and MLOps.
-
-🤝 Comfortable working in **team-based software projects, Agile environments and Git/GitHub workflows**.
+`Software Engineering` · `Full-Stack Development` · `Backend Engineering` · `AI/ML` · `Computer Vision` · `NLP` · `MLOps`
 
 ---
 
-# 🛠️ Software Engineering Skills
+## Technical Stack
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-</p>
-
-### 🌐 Frontend Development
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://skillicons.dev/icons?i=python,java,js,sql" />
 </p>
 
-### ⚙️ Backend & APIs
+### Frontend & Backend
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square">
+<img src="https://skillicons.dev/icons?i=react,html,css,fastapi" />
 </p>
 
-### 📱 Mobile Development
+### AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-### 🗄️ Databases
+`Scikit-learn` · `XGBoost` · `Random Forest` · `Logistic Regression`
+`Transformers` · `BERT` · `CLIP` · `OpenCV`
+
+### MLOps & Development
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+<img src="https://skillicons.dev/icons?i=docker,git,github,airflow" />
 </p>
 
-### 🎨 UI/UX & Development Tools
+`MLflow` · `DVC` · `DAGsHub` · `FastAPI` · `Jira`
+
+### Mobile & Database
 
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,mysql,firebase" />
 </p>
+
+`Java/Kotlin` · `Android Studio` · `MySQL` · `Firebase`
+
+### UI / UX
+
+`Figma` · `Wireframing` · `Prototyping` · `Responsive Design`
 
 ---
 
-# 🚀 Featured Software Projects
+# Featured Projects
 
-## 🏥 Hospital Appointment No-Show Prediction
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A machine-learning powered web application developed to predict whether a patient is likely to miss a scheduled appointment.
+### DeepShield
 
-**My Contribution:**
+**Explainable Multimodal Framework for Trust Assessment and Evidence-Based Fake News Detection**
 
-* Data preprocessing and feature engineering
-* Exploratory Data Analysis
-* Logistic Regression model development
-* Feature importance analysis
-* Streamlit web application development
-* Real-time prediction functionality
+An ongoing research project focused on analysing **text, images and metadata** to detect misinformation and generate evidence-based trust assessments.
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Streamlit • Joblib
+**Key Areas**
 
----
+* Multimodal misinformation detection
+* Retrieval-Augmented Generation
+* Explainable AI
+* Trust Score generation
+* REST API development
+* React.js frontend
 
-## 🛒 LankaSmartMart — Mobile Application
+**Stack**
 
-An Android-based mobile application developed as a team project with a focus on **UI/UX, application development and database integration**.
+`Python` `PyTorch` `BERT` `CLIP`
+`OpenCV` `FAISS` `FastAPI` `React.js`
 
-**My Contribution:**
+**Status:** Ongoing · Expected 2027
 
-* Designed UI/UX prototypes using Figma
-* Developed Android application interfaces
-* Implemented core application functionality
-* Integrated database functionality
-* Used Git/GitHub for collaborative development
-* Participated throughout the SDLC
+</td>
 
-**Tech:** Figma • Android Studio • Java/Kotlin • Firebase/MySQL • Git • GitHub
+<td width="50%" valign="top">
 
----
+### Customer Churn Prediction
 
-## 💊 Medical Store Management System
+**End-to-End MLOps Pipeline**
 
-A web-based management system developed with responsive interfaces and backend integration.
+Production-oriented machine learning pipeline developed for Telco customer churn prediction.
 
-**My Contribution:**
+**Highlights**
 
-* Developed responsive React.js interfaces
-* Created reusable React components
-* Designed UI/UX
-* Integrated frontend pages with backend APIs
-* Collaborated using Agile development practices
+* 7,043 customer records processed
+* 3 ML models compared
+* Logistic Regression selected
+* 81.97% accuracy
+* 0.8621 ROC-AUC
+* MLflow experiment tracking
+* DVC version control
+* Airflow workflow automation
+* Docker containerization
+* FastAPI model serving
 
-**Tech:** React.js • JavaScript • HTML • CSS • REST APIs
+**Stack**
 
----
+`Python` `Scikit-learn` `MLflow`
+`DVC` `Airflow` `Docker` `FastAPI`
 
-# 🤖 AI / ML Projects & Interests
+</td>
+</tr>
 
-Although my primary focus is **Software Engineering**, I also have hands-on experience and strong interest in **AI/ML-based software applications**.
+<tr>
+<td width="50%" valign="top">
 
-### 📩 SMS Spam Detection System
+### SMS Spam Detection
 
-Developed a web-based system for classifying SMS messages as **Spam or Ham**.
+**Machine Learning + Deep Learning Web Application**
+
+A real-time web application for classifying SMS messages as **Spam or Ham**.
+
+**Highlights**
 
 * Random Forest classifier
 * LSTM deep learning model
 * Feature engineering
 * Hyperparameter tuning
-* Model performance comparison
-* Real-time web prediction interface
+* Model comparison
+* Real-time prediction UI
+* Accuracy / Precision / Recall
+* F1-Score / ROC-AUC evaluation
 
-**Tech:** Python • Scikit-learn • TensorFlow • Random Forest • LSTM • HTML • CSS • JavaScript
+**Stack**
 
----
+`Python` `Scikit-learn` `TensorFlow`
+`Random Forest` `LSTM` `HTML` `CSS` `JavaScript`
 
-### 📊 Customer Churn Prediction with MLOps
+</td>
 
-Developed an end-to-end machine learning pipeline for customer churn prediction.
+<td width="50%" valign="top">
+
+### Fruit & Vegetable Detection
+
+**AI Computer Vision Web Application**
+
+Computer vision application capable of detecting fruits and vegetables from uploaded images and live camera input.
+
+**Highlights**
+
+* Roboflow object detection
+* Bounding-box detection
+* Confidence scores
+* Image upload
+* Live camera detection
+* FastAPI REST endpoints
+* Responsive interface
+* HTTPS configuration
+* Vercel deployment
+
+**Stack**
+
+`Python` `FastAPI` `Roboflow`
+`Computer Vision` `HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### SmartCare AI
+
+**Hospital Appointment No-Show Prediction**
+
+Machine learning web application developed to predict whether a scheduled hospital appointment is likely to be missed.
+
+**My Contribution**
 
 * Data preprocessing
 * Feature engineering
-* Model comparison
-* MLflow experiment tracking
-* DVC
-* Apache Airflow
-* Docker
-* FastAPI
+* EDA
+* Logistic Regression
+* Feature importance analysis
+* Model evaluation
+* Streamlit UI
+* Real-time prediction
 
-**Tech:** Python • Scikit-learn • MLflow • DVC • Airflow • Docker • FastAPI
+**Stack**
+
+`Python` `Pandas` `NumPy`
+`Scikit-learn` `Streamlit` `Joblib`
+
+<br>
+
+<a href="https://smartcare-ai-project-11.streamlit.app/">
+Live Demo →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### LankaSmartMart
+
+**Android E-Commerce Mobile Application**
+
+Team-based mobile application developed with a focus on UI/UX, application functionality and database integration.
+
+**My Contribution**
+
+* Complete UI/UX prototype
+* Figma workflow design
+* Android interfaces
+* Core functionality
+* Database integration
+* Git/GitHub collaboration
+* SDLC participation
+
+**Stack**
+
+`Figma` `Android Studio`
+`Java/Kotlin` `Firebase/MySQL` `Git` `GitHub`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛡️ DeepShield — Ongoing Research Project
+# Other Projects
 
-Developing a multimodal AI system for **fake news detection and trust assessment** using text, image and metadata.
+### Medical Store Management System
 
-**Technologies:** Python • PyTorch • Transformers • BERT • CLIP • OpenCV • FAISS • FastAPI • React.js
+Web-based management application developed using React.js with responsive interfaces and backend API integration.
+
+**My Contribution**
+
+* Responsive React.js interfaces
+* Reusable React components
+* UI/UX design
+* REST API integration
+* Agile team collaboration
+
+`React.js` `JavaScript` `HTML` `CSS` `REST APIs`
 
 ---
 
-# 🎯 Areas of Interest
+# Development Focus
 
-```text
-Software Engineering
-Full-Stack Development
-Web Application Development
-Mobile Application Development
-Backend Development
-REST API Development
-Database Systems
-UI/UX Engineering
-Artificial Intelligence
+<table>
+<tr>
+<td align="center" width="25%">
+
+### Software Engineering
+
+Clean Architecture
+Reusable Components
+SDLC
+Agile Development
+
+</td>
+
+<td align="center" width="25%">
+
+### Full-Stack
+
+React.js
+FastAPI
+REST APIs
+Databases
+
+</td>
+
+<td align="center" width="25%">
+
+### AI / ML
+
 Machine Learning
 Deep Learning
-Natural Language Processing
+NLP
 Computer Vision
+
+</td>
+
+<td align="center" width="25%">
+
+### MLOps
+
+MLflow
+DVC
+Airflow
+Docker
+
+</td>
+</tr>
+</table>
+
+---
+
+# Currently Learning
+
+```text
+Advanced Full-Stack Development
+Backend Architecture & REST API Design
+Software Engineering Best Practices
+AI/ML Integration
+Model Deployment
 MLOps
+Cloud & Containerized Applications
 ```
 
 ---
 
-# 📈 What I'm Currently Learning
-
-🔹 Advanced Full-Stack Development
-🔹 Backend Architecture & REST API Design
-🔹 Software Engineering Best Practices
-🔹 AI/ML Integration into Software Applications
-🔹 MLOps & Model Deployment
-🔹 Cloud & Containerized Applications
-
----
-
-# 🤝 Let's Connect
+# GitHub Activity
 
 <div align="center">
 
-📧 **Email:** `kiruusamarakoon@gmail.com`
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" width="49%" />
 
-💼 **LinkedIn:** `Add your LinkedIn URL`
-
-🌐 **Portfolio:** `Add your Portfolio URL`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" width="49%" />
 
 </div>
 
 ---
 
+# Contribution Graph
+
 <div align="center">
 
-### 💡 *"Turning ideas into practical software solutions."*
-
-⭐ **Thanks for visiting my profile!**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" width="95%"/>
 
 </div>
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="https://cit-23-02-0104-creator.github.io/My-portfolio/">
+Portfolio
+</a>
+
+  •  
+
+<a href="https://www.linkedin.com/in/jayani-samarakoon-b7b827427/">
+LinkedIn
+</a>
+
+  •  
+
+<a href="mailto:kiruusamarakoon@gmail.com">
+Email
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Turning ideas into practical software solutions.
+
+</div>
+
 

@@ -1,153 +1,162 @@
-<div align="center">
+# Hi, I'm Jayani Samarakoon 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Hi%20There,%20I'm%20Jayani%20👋&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+### 💻 Software Engineering Undergraduate
 
-<h2>🚀 AI/ML Developer | Software Engineering Undergraduate</h2>
+I'm a **Software Engineering undergraduate** passionate about building practical, user-friendly, and scalable software applications.
 
-<p>
-  <b>Building intelligent systems • Developing real-world applications • Learning every day</b>
-</p>
-
-</div>
+I have experience in **web development, mobile application development, backend development, databases, and software project development**. I'm also interested in exploring **Artificial Intelligence, Machine Learning, Deep Learning, and MLOps**.
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 I'm a **Software Engineering undergraduate** passionate about building
-intelligent and user-focused software solutions.
-
-Currently working on **AI/ML, MLOps, NLP, Computer Vision, and Web Applications**.
-
-Currently learning **Deep Learning, MLOps, RAG, Explainable AI, and Flutter**.
-
-I enjoy turning real-world problems into **practical AI-powered applications**.
-
-Ask me about **Python, Machine Learning, NLP, Computer Vision, MLOps, and Full-Stack Development**.
-
-Reach me at **[kiruusamarakoon@gmail.com](mailto:kiruusamarakoon@gmail.com)**
+* 🎓 BSc (Hons) in Software Engineering Undergraduate
+* 💻 Interested in **Software Engineering & Full-Stack Development**
+* 🌐 Experienced in **Web & Backend Development**
+* 📱 Experience in **Mobile Application Development**
+* 🗄️ Familiar with **Databases & API Development**
+* 🤖 Interested in **AI, Machine Learning & Deep Learning**
+* ⚙️ Exploring **MLOps and AI-powered applications**
+* 🤝 Enjoy working on team-based software projects
 
 ---
 
-## 🧠 What I'm Interested In
+## 💼 Software Engineering Experience
 
-- Artificial Intelligence & Machine Learning
-- Deep Learning & NLP
-- Computer Vision
-- MLOps & Model Deployment
-- Full-Stack Web Development
-- Mobile Application Development
-- UI/UX & User-Centered Design
+### 🌐 Web Development
+
+* React.js
+* HTML
+* CSS
+* JavaScript
+* Responsive UI Development
+* REST API Integration
+
+### ⚙️ Backend Development
+
+* FastAPI
+* REST APIs
+* Backend Integration
+* API-based Application Development
+
+### 📱 Mobile Development
+
+* Android Studio
+* Java / Kotlin
+* Flutter
+* Firebase
+* Mobile UI/UX Development
+
+### 🗄️ Databases
+
+* MySQL
+* Firebase
+* Data Storage & Retrieval
+* Database Integration
+
+### 🎨 UI/UX
+
+* Figma
+* Wireframing
+* Prototyping
+* Responsive & User-Friendly Interface Design
+
+### 🔧 Development Tools
+
+* Git
+* GitHub
+* VS Code
+* Jira
+* Docker
 
 ---
 
-## 🛠️ Tech Stack
+## 🤖 Areas of Interest
 
-### 👩‍💻 Programming & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,fastapi" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-### ⚙️ MLOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,flutter" />
-</p>
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* MLOps
+* Intelligent Software Applications
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🛡️ DeepShield
-**Explainable Multimodal Framework for Trust Assessment & Fake News Detection**
 
-> Multimodal AI system combining text, image, metadata analysis, RAG and Explainable AI to provide evidence-based predictions and a Trust Score.
+**Explainable Multimodal Framework for Trust Assessment & Evidence-Based Fake News Detection**
 
-**Tech:** Python • PyTorch • Transformers • BERT • CLIP • OpenCV • FAISS • FastAPI • React.js
+Developing a software system that combines multimodal AI, REST APIs, and a responsive frontend to provide evidence-based fake news detection.
 
----
-
-### 📊 Customer Churn Prediction with MLOps
-
-> End-to-end machine learning pipeline for customer churn prediction with model tracking, data versioning, orchestration and deployment.
-
-**Tech:** Python • Scikit-learn • XGBoost • MLflow • DVC • Apache Airflow • Docker • FastAPI • DAGsHub
-
-**Model Performance:** 81.97% Accuracy | 0.8621 ROC-AUC
+**Technologies:** Python, FastAPI, React.js, PyTorch, BERT, CLIP, OpenCV, FAISS
 
 ---
 
-### 📱 SMS Spam Detection System
+### 🏥 Hospital Appointment No-Show Prediction
 
-> Machine learning and deep learning based SMS spam detection system with a responsive web interface for real-time predictions.
+A machine learning-based web application developed to predict appointment no-shows using healthcare data.
 
-**Tech:** Python • Random Forest • LSTM • TensorFlow • Scikit-learn • FastAPI • HTML • CSS • JavaScript
-
----
-
-### 🏥 SmartCare AI
-
-> Machine learning based hospital appointment no-show prediction system with a Streamlit web application for real-time predictions.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Streamlit • Joblib
-
-🔗 **Live Demo:** https://smartcare-ai-project-11.streamlit.app/
+**Technologies:** Python, Scikit-learn, Streamlit, Pandas, NumPy
 
 ---
 
-## 📈 GitHub Stats
+### 🛒 LankaSmartMart
 
-<p align="center">
+Android mobile application developed with UI/UX design, application development, database integration, and collaborative Git/GitHub development.
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="98%" />
-
-</p>
+**Technologies:** Android Studio, Java/Kotlin, Firebase/MySQL, Figma, Git, GitHub
 
 ---
 
-## 📊 GitHub Activity
+### 📱 Medical Store Management System
 
-<p align="center">
+Web-based management system developed with responsive frontend interfaces and backend API integration.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="98%"/>
-
-</p>
+**Technologies:** React.js, HTML, CSS, JavaScript
 
 ---
 
-## 🤝 Connect With Me
+### 📩 SMS Spam Detection System
 
-<p align="left">
+Web-based application for classifying SMS messages as **Spam or Ham** using Machine Learning and Deep Learning approaches.
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Technologies:** Python, Random Forest, LSTM, TensorFlow, Scikit-learn, HTML, CSS, JavaScript
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-<a href="https://cit-23-02-0104-creator.github.io/My-portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+## 🛠️ Technologies
 
-<a href="mailto:kiruusamarakoon@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+```text
+Languages        Python | Java | JavaScript | SQL
 
-</p>
+Frontend         React.js | HTML | CSS
+
+Backend          FastAPI | REST APIs
+
+Mobile           Android Studio | Java/Kotlin | Flutter
+
+Databases        MySQL | Firebase
+
+AI/ML            Scikit-learn | XGBoost | TensorFlow | PyTorch
+
+Tools            Git | GitHub | VS Code | Jira | Docker
+
+Design           Figma
+```
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [kiruusamarakoon@gmail.com](mailto:kiruusamarakoon@gmail.com)
+
+💼 **LinkedIn:** Add your LinkedIn profile
+
+🌐 **Portfolio:** Add your portfolio
+
+---
+
+⭐ *Building software, learning new technologies, and turning ideas into real-world applications.*

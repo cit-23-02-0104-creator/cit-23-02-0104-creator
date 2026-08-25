@@ -114,80 +114,6 @@ practical, scalable and user-friendly software applications.
 
 ---
 
-### 📌 Featured Projects
-
-#### 🛡️ DeepShield — Explainable Multimodal AI
-
-An ongoing multimodal AI project for **fake news detection and trust assessment**, combining text, images, metadata, RAG and Explainable AI techniques.
-
-**Technologies:**
-`Python` `PyTorch` `Transformers` `BERT` `CLIP` `OpenCV` `FAISS` `FastAPI` `React.js`
-
----
-
-#### 🏥 SmartCare AI — Hospital Appointment No-Show Prediction
-
-A machine learning web application developed to predict **appointment no-shows**.
-
-**Highlights:**
-
-* Data preprocessing & feature engineering
-* Exploratory Data Analysis
-* Logistic Regression classification
-* Feature importance analysis
-* Real-time Streamlit prediction interface
-
-**Technologies:**
-`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `Joblib`
-
-🔗 **Live Demo:** https://smartcare-ai-project-11.streamlit.app/
-
----
-
-#### 💊 Medical Store Management System
-
-A web-based management system focused on **responsive UI development, reusable React components and backend API integration**.
-
-**Technologies:**
-`React.js` `JavaScript` `HTML` `CSS` `REST APIs`
-
----
-
-#### 📱 LankaSmartMart — Mobile Application
-
-An Android mobile application developed with a focus on **UI/UX, application functionality, database integration and collaborative software development**.
-
-**Technologies:**
-`Figma` `Android Studio` `Java/Kotlin` `Firebase/MySQL` `Git` `GitHub`
-
----
-
-#### 📩 SMS Spam Detection System
-
-A web-based application for classifying SMS messages as **Spam or Ham** using Machine Learning and Deep Learning.
-
-**Technologies:**
-`Python` `Random Forest` `LSTM` `TensorFlow` `Scikit-learn` `HTML` `CSS` `JavaScript`
-
----
-
-#### 📊 Customer Churn Prediction — MLOps
-
-An end-to-end MLOps pipeline developed for **customer churn prediction**.
-
-**Technologies:**
-`Python` `Scikit-learn` `MLflow` `DVC` `Apache Airflow` `Docker` `FastAPI` `DAGsHub`
-
----
-
-#### 🍎 AI Fruit & Vegetable Detection
-
-A computer vision web application for detecting fruits and vegetables from **uploaded images and live camera input**.
-
-**Technologies:**
-`Python` `FastAPI` `Roboflow` `Computer Vision` `HTML` `CSS` `JavaScript`
-
----
 
 ### 🎯 Areas of Interest
 
@@ -202,10 +128,7 @@ A computer vision web application for detecting fruits and vegetables from **upl
 
 ---
 
-</div>
 
-🔗 Explore all my repositories:
-View My GitHub Repositories
 
 ### 🌱 Currently Learning
 

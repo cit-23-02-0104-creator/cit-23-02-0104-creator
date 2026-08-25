@@ -11,7 +11,7 @@
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:kiruusamarakoon@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>[cite: 1]
     <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=react&logoColor=white" /></a>[cite: 1]
+    <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=react&logoColor=white" /></a>
   </p>
 
 </div>

@@ -42,14 +42,14 @@ I enjoy working across the development lifecycle — from **UI/UX design and fro
 
 ## 💻 Software Engineering Focus
 
-* 🌐 **Full-Stack Web Development**
-* ⚙️ **Backend Development & REST APIs**
-* 📱 **Mobile Application Development**
-* 🗄️ **Database Integration**
-* 🎨 **UI/UX Design & Prototyping**
-* 🔧 **Software Development & Version Control**
-* 🤝 **Collaborative & Agile Development**
-* 🚀 **Application Deployment**
+*  **Full-Stack Web Development**
+*  **Backend Development & REST APIs**
+*  **Mobile Application Development**
+*  **Database Integration**
+*  **UI/UX Design & Prototyping**
+*  **Software Development & Version Control**
+*  **Collaborative & Agile Development**
+*  **Application Deployment**
 
 ---
 
@@ -141,7 +141,7 @@ Alongside Software Engineering, I have hands-on experience developing **AI and M
 
 ## 🚀 Currently Working On
 
-### 🛡️ DeepShield
+###  DeepShield
 
 **Explainable Multimodal Framework for Trust Assessment and Evidence-Based Fake News Detection**
 
@@ -201,12 +201,12 @@ I use GitHub to manage my projects, experiment with new technologies, collaborat
 
 ## 🌱 Currently Learning
 
-* 🚀 Advanced Software Engineering Practices
-* 🌐 Modern Full-Stack Development
-* ⚙️ Backend Architecture & API Development
-* 📱 Mobile Application Development
-* 🤖 AI/ML Integration into Software Applications
-* ☁️ MLOps & Model Deployment
+*  Advanced Software Engineering Practices
+*  Modern Full-Stack Development
+*  Backend Architecture & API Development
+*  Mobile Application Development
+*  AI/ML Integration into Software Applications
+*  MLOps & Model Deployment
 
 ---
 

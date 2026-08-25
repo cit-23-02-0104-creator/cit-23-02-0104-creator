@@ -1,83 +1,70 @@
-<h1 align="center">Hi there, I'm Jayani Samarakoon! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineering Undergraduate | AI/ML & MLOps Enthusiast | Full-Stack & Mobile Developer</b>
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Jayani%20Samarakoon&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kiruusamarakoon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dagshub.com/YOUR_DAGSHUB_USERNAME"><img src="https://img.shields.io/badge/DAGsHub-181717?style=for-the-badge&logo=dagshub&logoColor=white" /></a>
-</p>
+  <p align="center">
+    <b>🤖 AI/ML & MLOps Enthusiast • 💻 Full-Stack Developer • 📱 Mobile Developer</b>[cite: 1]
+  </p>
 
----
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:kiruusamarakoon@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>[cite: 1]
+    <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=react&logoColor=white" /></a>[cite: 1]
+  </p>
 
-### 🚀 About Me
-
-* 🎓 Currently pursuing a **BSc (Hons) in Software Engineering** at **Sri Lanka Technology Campus (SLTC)** (2023 – Present).
-* 📍 Based in **Kegalla, Sri Lanka**.
-* 🤖 Passionate about **Machine Learning**, **Deep Learning**, **MLOps**, and **Full-Stack Application Development**.
-* 🛠️ Experienced in building end-to-end AI applications—from feature engineering to production deployment with **Docker**, **MLflow**, and **FastAPI**.
-* 🎯 Actively seeking **Software Engineering / AI / ML Internship** opportunities.
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### ✨ About Me
 
-**Languages & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / Machine Learning / MLOps**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Key Tech |
-|---|---|---|
-| **DeepShield** *(Ongoing)* | Multimodal AI framework using RAG & Explainable AI for fake news detection. | `PyTorch` `Transformers` `FastAPI` `React` |
-| **Customer Churn MLOps Pipeline** | Production-ready MLOps pipeline predicting churn with 81.97% accuracy. | `MLflow` `DVC` `Airflow` `Docker` `FastAPI` |
-| **Hospital Appointment No-Show Prediction** | ML model with Streamlit interface for predicting no-shows. [(Live Demo)](https://smartcare-ai-project-11.streamlit.app/) | `Python` `Scikit-learn` `Streamlit` |
-| **AI Fruit & Veggie Detector** | Computer vision application using Roboflow for object detection. | `FastAPI` `Roboflow` `OpenCV` `Vercel` |
-| **SMS Spam Detection System** | NLP spam classifier evaluating Random Forest vs LSTM model. | `TensorFlow` `LSTM` `Flask/FastAPI` |
-| **LankaSmartMart Mobile App** | Full UI/UX prototype & Android application integrated with DB. [(Figma Prototype)](https://www.figma.com/proto/yQ4DUNsyD503vXHQSZXZ4E/Lanka-Smart-Market?node-id-2-3&t=e7TEuSFqEJ1UMqQ9-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) | `Android Studio` `Java` `Firebase` `Figma` |
+<table>
+  <tr>
+    <td width="60%">
+      <p>✨ Passionate about turning complex data and algorithms into intelligent, real-world solutions. Undergraduate at <b>Sri Lanka Technology Campus (SLTC)</b> studying Software Engineering.</p>[cite: 1]
+      <br/>
+      <p><b>Interested in:</b></p>
+      <ul>
+        <li>🤖 Artificial Intelligence & Machine Learning</li>[cite: 1]
+        <li>⚙️ MLOps & Production AI Pipelines</li>[cite: 1]
+        <li>🧠 Deep Learning & Computer Vision</li>[cite: 1]
+        <li>💻 Full-Stack Web Development</li>[cite: 1]
+        <li>📱 Mobile Application Development</li>[cite: 1]
+      </ul>
+      <p><b>Currently Working On:</b></p>
+      <ul>
+        <li>🛡️ <b>DeepShield:</b> Explainable Multimodal Framework for Trust Assessment and Fake News Detection</li>[cite: 1]
+        <li>🔄 <b>Customer Churn MLOps Pipeline:</b> Production-ready machine learning pipeline with Docker & Airflow</li>[cite: 1]
+      </ul>
+      <p>⚡ <b>Fun Fact:</b></p>
+      <blockquote><i>"I love building intelligent systems that take raw data and turn it into real-world impact."</i></blockquote>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Tech Toolkit
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" width="48%" />
-</p>
+| Category | Technologies |
+|---|---|
+| 💻 <b>Languages</b> | `Python` `Java` `JavaScript` `SQL` |[cite: 1]
+| 🌐 <b>Web Development</b> | `React.js` `FastAPI` `REST APIs` `HTML` `CSS` |[cite: 1]
+| 📱 <b>Mobile Development</b> | `Flutter` `Android Studio` |[cite: 1]
+| 🤖 <b>AI / ML / Deep Learning</b> | `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `BERT` `CLIP` `OpenCV` |[cite: 1]
+| ⚙️ <b>MLOps & DevOps</b> | `MLflow` `DVC` `Apache Airflow` `Docker` `DAGsHub` `Git` |[cite: 1]
+| 🗄️ <b>Databases & UI/UX</b> | `MySQL` `Firebase` `Figma` |[cite: 1]
 
 ---
 
-### 📬 Connect With Me
+### 📌 Pinned & Featured Projects
 
-- 📧 Email: **kiruusamarakoon@gmail.com**
-- 📞 Phone: **+94 716246625**
-- 📍 Location: **Kegalla, Sri Lanka**
+- 🛡️ **DeepShield (Ongoing)** - Multimodal AI system using RAG & Explainable AI for fake news detection.[cite: 1]
+- 🔄 **Customer Churn Prediction (MLOps)** - Telco customer churn prediction pipeline with 81.97% accuracy.[cite: 1]
+- 🏥 **SmartCare AI** - Patient appointment no-show prediction model deployed on Streamlit.[cite: 1]
+- 🍎 **AI Fruit & Veggie Detector** - Computer vision web app built with FastAPI and Roboflow.[cite: 1]

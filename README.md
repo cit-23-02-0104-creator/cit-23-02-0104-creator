@@ -202,6 +202,11 @@ A computer vision web application for detecting fruits and vegetables from **upl
 
 ---
 
+</div>
+
+🔗 Explore all my repositories:
+View My GitHub Repositories
+
 ### 🌱 Currently Learning
 
 * 🚀 Advanced Software Engineering Practices
